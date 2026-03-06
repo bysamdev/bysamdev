@@ -2,12 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Samuel%20Terres&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SaaS%20Developer%20%7C%20Full-Stack%20%7C%20Serverless%20%7C%20IA&descAlignY=58&descSize=18&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;SaaS+%26+Serverless+Architecture+%E2%98%81%EF%B8%8F;AI+Automation+Engineer+%F0%9F%A4%96;Founder+%40+TURA+Marketing+%F0%9F%8F%97%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;SaaS+%26+Serverless+Architecture+%E2%98%81%EF%B8%8F;AI+Automation+Engineer+%F0%9F%A4%96;Founder+%40+TURA+Marketing+%F0%9F%8F%97%EF%B8%8F)](https://git.io/typing-svg)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samterres/)
 [![Site](https://img.shields.io/badge/bysam.dev-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](http://bysam.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bysamdev)
 ![Curitiba](https://img.shields.io/badge/Curitiba%2C%20PR-%F0%9F%87%A7%F0%9F%87%B7-555?style=for-the-badge)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=bysamdev&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/bysamdev)
 
 </div>
 
@@ -15,9 +19,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Full-Stack Developer especializado em soluções SaaS, com experiência em React, Node.js, bancos de dados (PostgreSQL, MySQL) e gerenciamento de servidores e infraestrutura. Apaixonado por transformar desafios complexos em sistemas práticos, escaláveis e estáveis que entregam valor real. Com background em suporte técnico e administração de TI, atuo de forma integrada para garantir que desenvolvimento, performance de banco de dados e infraestrutura estejam sempre alinhados.
-
-Fundador da **[TURA Marketing Estratégico](https://www.linkedin.com/company/111468054/)** — agência de marketing e tecnologia.
+> Full-Stack Developer especializado em soluções SaaS, com experiência em React, Node.js, bancos de dados (PostgreSQL, MySQL) e gerenciamento de servidores e infraestrutura. Apaixonado por transformar desafios complexos em sistemas práticos, escaláveis e estáveis que entregam valor real. Com background em suporte técnico e administração de TI, atuo de forma integrada para garantir que desenvolvimento, performance de banco de dados e infraestrutura estejam sempre alinhados.
+>
+> Fundador da **[TURA Marketing Estratégico](https://www.linkedin.com/company/111468054/)** — agência de marketing e tecnologia.
 
 ---
 
@@ -49,7 +53,7 @@ Fundador da **[TURA Marketing Estratégico](https://www.linkedin.com/company/111
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### 🚀 DevOps & Infra
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -78,10 +82,10 @@ Fundador da **[TURA Marketing Estratégico](https://www.linkedin.com/company/111
 
 | 🔮 Projeto | 📋 Descrição | 🧰 Stack |
 |:---:|:---|:---:|
-| **Orion System** | Plataforma SaaS de helpdesk e tickets com rate limiting, auditoria e SLA automático | `React` `Supabase` `TypeScript` |
-| **TURA Hub** | ERP/CRM para agências de marketing | `React` `Node.js` `Supabase` |
-| **bysam.dev** | Portfólio pessoal | `Next.js` `Tailwind CSS` |
-| **paperclip** | Orquestração para empresas zero-humano | `TypeScript` `IA` |
+| [**Orion System**](https://github.com/bysamdev/orion-system) | Plataforma SaaS de helpdesk e tickets com rate limiting, auditoria e SLA automático | `React` `Supabase` `TypeScript` |
+| [**TURA Hub**](https://github.com/bysamdev/tura-hub) | ERP/CRM para agências de marketing | `React` `Node.js` `Supabase` |
+| [**bysam.dev**](http://bysam.dev) | Portfólio pessoal | `Next.js` `Tailwind CSS` |
+| [**paperclip**](https://github.com/bysamdev/paperclip) | Orquestração para empresas zero-humano | `TypeScript` `IA` |
 
 </div>
 
@@ -91,14 +95,18 @@ Fundador da **[TURA Marketing Estratégico](https://www.linkedin.com/company/111
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bysamdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bysamdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=bysamdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bysamdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    </td>
+  </tr>
+</table>
 
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bysamdev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+<img src="https://streak-stats.demolab.com?user=bysamdev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
@@ -121,10 +129,16 @@ Fundador da **[TURA Marketing Estratégico](https://www.linkedin.com/company/111
 
 ## 📌 Atualmente
 
-- 🤖 Desenvolvendo integrações com **N8N + IA** para automação de processos de marketing
-- 🏗️ Arquitetando sistemas **serverless** escaláveis com Supabase Edge Functions
-- 🧩 Estudando **agentes de IA** e orquestradores como LangChain e CrewAI
-- 📚 Cursando **Engenharia de Software** na Universidade Positivo
+<div align="center">
+
+| Status | Foco |
+|:---:|:---|
+| 🟢 **Building** | Integrações **N8N + IA** para automação de processos de marketing |
+| 🟢 **Building** | Sistemas **serverless** escaláveis com Supabase Edge Functions |
+| 🟡 **Studying** | **Agentes de IA** — LangChain e CrewAI |
+| 🟡 **Studying** | **Engenharia de Software** — Universidade Positivo |
+
+</div>
 
 ---
 
