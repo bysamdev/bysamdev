@@ -1,21 +1,12 @@
-# Olá, sou Samuel 👋
+# Olá, sou Samuel Terres 👋
 
-**Desenvolvedor Full-Stack** | **Especialista em Automação & IA** | **Curitiba, PR 🇧🇷**
+**SaaS Developer | Full-Stack | Arquitetura Serverless | Engenharia de Software | Automação com IA**
 
-Construo sistemas escaláveis com arquitetura serverless, integrações inteligentes com IA e fluxos de automação que eliminam trabalho manual. Fundador da **TURA** — agência de marketing e tecnologia.
+**Curitiba, Paraná, Brasil 🇧🇷**
 
----
+Full-Stack Developer especializado em soluções SaaS, com experiência em React, Node.js, bancos de dados (PostgreSQL, MySQL) e gerenciamento de servidores e infraestrutura. Apaixonado por transformar desafios complexos em sistemas práticos, escaláveis e estáveis que entregam valor real. Com background em suporte técnico e administração de TI, atuo de forma integrada para garantir que desenvolvimento, performance de banco de dados e infraestrutura estejam sempre alinhados.
 
-## 🧠 IA & Automação
-
-Minha área de maior interesse e investimento atualmente:
-
-- 🤖 **Agentes de IA** — construção de agentes autônomos com LLMs (OpenAI, Claude)
-- ⚡ **N8N** — orquestração de fluxos de automação complexos
-- 🔄 **Make (Integromat)** — integrações entre sistemas e APIs
-- ☁️ **Arquitetura Serverless** — Supabase Edge Functions, Vercel Functions, AWS Lambda
-- 📊 **Scraping & Pipelines de dados** — coleta, processamento e entrega automatizada
-- 💬 **Chatbots & Assistentes** — WhatsApp, web e integrais com CRM
+Fundador da **[TURA Marketing Estratégico](https://www.linkedin.com/company/111468054/)** — agência de marketing e tecnologia.
 
 ---
 
@@ -32,8 +23,10 @@ Minha área de maior interesse e investimento atualmente:
 **Backend & Banco de Dados**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 **IA & Automação**
 
@@ -61,39 +54,56 @@ Minha área de maior interesse e investimento atualmente:
 
 ---
 
-## 🖥️ Infraestrutura & Servidores
-
-Além do desenvolvimento, tenho experiência sólida em administração de servidores e infraestrutura:
-
-- 🐧 **Linux** — administração de servidores Ubuntu/Debian, shell scripting, gerenciamento de serviços e permissões
-- 🪟 **Windows Server** — Active Directory, GPO, gerenciamento de usuários e políticas de rede
-- 🌐 **Redes** — configuração de VPN, DNS, firewall e monitoramento de infraestrutura com Zabbix
-- ☁️ **Cloud** — base sólida em AWS e Google Cloud: EC2, S3, Cloud Run, IAM e arquitetura de serviços gerenciados
-- 🐳 **Containers** — Docker para deploy de aplicações e ambientes de desenvolvimento padronizados
-
----
-
 ## 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| 🟣 **Orion System** | Plataforma SaaS de helpdesk e tickets | React, Supabase, TypeScript |
+| 🟣 **Orion System** | Plataforma SaaS de helpdesk e tickets com rate limiting, auditoria e SLA automático | React, Supabase, TypeScript |
 | 🟡 **TURA Hub** | ERP/CRM para agências de marketing | React, Node.js, Supabase |
 | 🟢 **bysam.dev** | Portfólio pessoal | Next.js, Tailwind CSS |
 | ⚪ **paperclip** | Orquestração para empresas zero-humano | TypeScript, IA |
 
 ---
 
+## 💼 Experiência
+
+**Diretor de Tecnologia e Produção Audiovisual** — Tura Marketing Estratégico *(jan/2026 – atual)*
+
+Liderança técnica na arquitetura de sistemas escaláveis, integração entre tecnologia e comunicação, produção de conteúdo audiovisual estratégico e campanhas visuais de alto impacto.
+
+**PJ – Soluções em Tecnologia para Empresas** — Autônomo *(jul/2025 – atual)*
+
+Desenvolvimento de soluções sob demanda: sistemas web, automações, integrações com IA e infraestrutura para empresas.
+
+**Assistente de TI** — Contabilista Suprimentos para Escritório *(out/2024 – jul/2025)*
+
+Gerenciamento de redes, servidores Windows, infraestrutura de TI, suporte técnico e administração de sistemas.
+
+**Junior Data Analyst** — Estado Maior do Exército *(mar/2023 – fev/2024)*
+
+Coleta, análise e consolidação de dados de 698 municípios (SC e PR). Desenvolvimento de planilhas analíticas e gráficos gerenciais para tomada de decisão, com reporte a órgãos centrais em Brasília.
+
+---
+
+## 🎓 Formação
+
+**Engenharia de Software** — Universidade Positivo *(2024 – 2028)*
+
+**Produção Audiovisual** — Centro Europeu *(abr – ago/2025)*
+
+---
+
 ## 📌 Atualmente
 
-- 🔧 Desenvolvendo integrações com **N8N + IA** para automação de processos de marketing
+- 🤖 Desenvolvendo integrações com **N8N + IA** para automação de processos de marketing
 - 🏗️ Arquitetando sistemas **serverless** escaláveis com Supabase Edge Functions
 - 🧩 Estudando **agentes de IA** e orquestradores como LangChain e CrewAI
-- 📚 Engenharia de Software — cursando pós graduação
+- 📚 Cursando **Engenharia de Software** na Universidade Positivo
 
 ---
 
 ## 📞 Contato
 
 [![Site](https://img.shields.io/badge/bysam.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](http://bysam.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samterres/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bysamdev)
