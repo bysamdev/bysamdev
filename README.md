@@ -85,11 +85,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bysamdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bysamdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=bysamdev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bysamdev&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
