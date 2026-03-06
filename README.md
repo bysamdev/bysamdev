@@ -67,21 +67,10 @@ Fundador da **[TURA Marketing Estratégico](https://www.linkedin.com/company/111
 
 ## 💼 Experiência
 
-**Diretor de Tecnologia** — Tura Marketing Estratégico *(jan/2026 – atual)*
-
-Liderança técnica na arquitetura de sistemas escaláveis e soluções digitais de alto impacto.
-
-**PJ – Soluções em Tecnologia para Empresas** — Autônomo *(jul/2025 – atual)*
-
-Desenvolvimento de soluções sob demanda: sistemas web, automações, integrações com IA e infraestrutura para empresas.
-
-**Assistente de TI** — Contabilista Suprimentos para Escritório *(out/2024 – jul/2025)*
-
-Gerenciamento de redes, servidores Windows, infraestrutura de TI, suporte técnico e administração de sistemas.
-
-**Junior Data Analyst** — Estado Maior do Exército *(mar/2023 – fev/2024)*
-
-Coleta, análise e consolidação de dados de 698 municípios (SC e PR). Desenvolvimento de planilhas analíticas e gráficos gerenciais para tomada de decisão, com reporte a órgãos centrais em Brasília.
+- **Diretor de Tecnologia** — Tura Marketing Estratégico *(jan/2026 – atual)*
+- **PJ – Soluções em Tecnologia para Empresas** — Autônomo *(jul/2025 – atual)*
+- **Assistente de TI** — Contabilista Suprimentos para Escritório *(out/2024 – jul/2025)*
+- **Junior Data Analyst** — Estado Maior do Exército *(mar/2023 – fev/2024)*
 
 ---
 
