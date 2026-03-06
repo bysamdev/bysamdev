@@ -10,7 +10,7 @@ Desenvolvedor full-stack brasileiro de Curitiba, PR. Construo sistemas web moder
 - Fundador da **TURA** — agência de marketing e tecnologia
 - Desenvolvendo o **Orion System** — plataforma SaaS de helpdesk e tickets
 - Estudante de Engenharia de Software
-- Baseado em Curitiba, Paraná, Brasil
+- De Curitiba, Paraná, Brasil
 
 ---
 
