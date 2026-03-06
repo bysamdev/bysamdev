@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full-Stack** | **Especialista em Automação & IA** | **Curitiba, PR 🇧🇷**
 
-Construo sistemas escalavéis com arquitetura serverless, integrações inteligentes com IA e fluxos de automação que eliminam trabalho manual. Fundador da **TURA** — agência de marketing e tecnologia.
+Construo sistemas escaláveis com arquitetura serverless, integrações inteligentes com IA e fluxos de automação que eliminam trabalho manual. Fundador da **TURA** — agência de marketing e tecnologia.
 
 ---
 
@@ -46,6 +46,30 @@ Minha área de maior interesse e investimento atualmente:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**Servidores & Sistemas Operacionais**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
+
+## 🖥️ Infraestrutura & Servidores
+
+Além do desenvolvimento, tenho experiência sólida em administração de servidores e infraestrutura:
+
+- 🐧 **Linux** — administração de servidores Ubuntu/Debian, shell scripting, gerenciamento de serviços e permissões
+- 🪟 **Windows Server** — Active Directory, GPO, gerenciamento de usuários e políticas de rede
+- 🌐 **Redes** — configuração de VPN, DNS, firewall e monitoramento de infraestrutura com Zabbix
+- ☁️ **Cloud** — base sólida em AWS e Google Cloud: EC2, S3, Cloud Run, IAM e arquitetura de serviços gerenciados
+- 🐳 **Containers** — Docker para deploy de aplicações e ambientes de desenvolvimento padronizados
 
 ---
 
