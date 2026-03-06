@@ -48,6 +48,8 @@
 ### 🔄 Automação & Integrações
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=zapier&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🚀 DevOps & Infra
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -73,13 +75,30 @@
 | 🔮 Projeto | 📋 Descrição | 🧰 Stack |
 |:---:|:---|:---:|
 | [**Orion System**](https://github.com/bysamdev/orion-system) | Plataforma SaaS de helpdesk e tickets com rate limiting, auditoria e SLA automático | `React` `Supabase` `TypeScript` |
-| [**TURA Hub**](https://github.com/bysamdev/tura-hub) | ERP/CRM para agências de marketing | `React` `Node.js` `Supabase` |
+| **TURA Hub** | ERP/CRM para agências de marketing — sistema interno em desenvolvimento | `React` `Node.js` `Supabase` |
 | [**bysam.dev**](http://bysam.dev) | Portfólio pessoal | `Next.js` `Tailwind CSS` |
-| [**paperclip**](https://github.com/bysamdev/paperclip) | Orquestração para empresas zero-humano | `TypeScript` |
+| [**guaruja-project**](https://github.com/bysamdev/guaruja-project) | Aplicação web containerizada com Docker e frontend moderno | `JavaScript` `Docker` `Nginx` |
 
 ---
 
 ## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=bysamdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bysamdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=bysamdev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" />
+
+</div>
 
 ---
 
@@ -108,3 +127,7 @@
 | 🟡 **Studying** | **Engenharia de Software** — Universidade Positivo |
 
 ---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+</div>
