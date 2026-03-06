@@ -85,18 +85,11 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=bysamdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bysamdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-    </td>
-  </tr>
-</table>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bysamdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)
 
-<img src="https://streak-stats.demolab.com?user=bysamdev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bysamdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=bysamdev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR)
 
 </div>
 
