@@ -67,9 +67,9 @@ Fundador da **[TURA Marketing Estratégico](https://www.linkedin.com/company/111
 
 ## 💼 Experiência
 
-**Diretor de Tecnologia e Produção Audiovisual** — Tura Marketing Estratégico *(jan/2026 – atual)*
+**Diretor de Tecnologia** — Tura Marketing Estratégico *(jan/2026 – atual)*
 
-Liderança técnica na arquitetura de sistemas escaláveis, integração entre tecnologia e comunicação, produção de conteúdo audiovisual estratégico e campanhas visuais de alto impacto.
+Liderança técnica na arquitetura de sistemas escaláveis e soluções digitais de alto impacto.
 
 **PJ – Soluções em Tecnologia para Empresas** — Autônomo *(jul/2025 – atual)*
 
@@ -88,8 +88,6 @@ Coleta, análise e consolidação de dados de 698 municípios (SC e PR). Desenvo
 ## 🎓 Formação
 
 **Engenharia de Software** — Universidade Positivo *(2024 – 2028)*
-
-**Produção Audiovisual** — Centro Europeu *(abr – ago/2025)*
 
 ---
 
