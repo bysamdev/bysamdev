@@ -20,7 +20,7 @@
 
 > Full-Stack Developer especializado em soluções SaaS, com experiência em React, Node.js, bancos de dados (PostgreSQL, MySQL) e gerenciamento de servidores e infraestrutura. Apaixonado por transformar desafios complexos em sistemas práticos, escaláveis e estáveis que entregam valor real. Com background em suporte técnico e administração de TI, atuo de forma integrada para garantir que desenvolvimento, performance de banco de dados e infraestrutura estejam sempre alinhados.
 >
-> Fundador da **[TURA Marketing Estratégico](https://www.linkedin.com/company/111468054/)** — agência de marketing e tecnologia.
+> Tech Lead da **[TURA Marketing Estratégico](https://www.linkedin.com/company/111468054/)** — agência de marketing e tecnologia.
 
 ---
 
