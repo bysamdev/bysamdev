@@ -50,7 +50,6 @@
 | [**Orion System**](https://github.com/bysamdev/orion-system) | Plataforma SaaS de helpdesk com rate limiting, auditoria e monitoramento | `React` `Supabase` `TypeScript` |
 | **TURA Hub** | ERP/CRM para agências de marketing com pipeline CI/CD completo e infra containerizada | `React` `Node.js` `Docker` `GitHub Actions` |
 | [**bysam.dev**](http://bysam.dev) | Portfólio pessoal com deploy automatizado | `Next.js` `Tailwind CSS` `Vercel` |
-| [**guaruja-project**](https://github.com/bysamdev/guaruja-project) | Aplicação web containerizada com Nginx reverse proxy | `JavaScript` `Docker` `Nginx` |
 
 ---
 
