@@ -12,7 +12,7 @@
 
 ## 🤖 Sobre mim
 
-> DevOps Engineer e Full-Stack Developer especializado em **infraestrutura em nuvem**, **CI/CD**, **gerenciamento de agentes de IA** e desenvolvimento de interfaces modernas. Atualmente estudando e implementando **OpenClaw** — plataforma open-source de orquestração de AI agents para automação de processos complexos.
+> DevOps Engineer e Full-Stack Developer especializado em **infraestrutura em nuvem**, **CI/CD**, **gerenciamento de agentes de IA** e desenvolvimento de interfaces modernas. Atualmente estudando e implementando **OpenClaw** plataforma open-source de orquestração de AI agents para automação de processos complexos.
 > 
 > Focado em construir sistemas escaláveis, pipelines automatizados e ferramentas que conectam infraestrutura com inteligência artificial. Transformo desafios de DevOps e front-end em soluções práticas e eficientes.
 >
