@@ -63,7 +63,6 @@
 
 ## 💼 Experiência
 
-- **Diretor de Tecnologia** — Tura Marketing Estratégico *(jan/2026 – atual)*
 - **PJ – Soluções em Tecnologia para Empresas** — Autônomo *(jul/2025 – atual)*
 - **Assistente de TI** — Contabilista Suprimentos para Escritório *(out/2024 – jul/2025)*
 - **Junior Data Analyst** — Estado Maior do Exército *(mar/2023 – fev/2024)*
