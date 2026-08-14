@@ -16,7 +16,6 @@
 > 
 > Focado em construir sistemas escaláveis, pipelines automatizados e ferramentas que conectam infraestrutura com inteligência artificial. Transformo desafios de DevOps e front-end em soluções práticas e eficientes.
 >
-> Tech Lead da **[TURA Marketing Estratégico](https://www.linkedin.com/company/111468054/)** — agência de marketing e tecnologia.
 
 ---
 
